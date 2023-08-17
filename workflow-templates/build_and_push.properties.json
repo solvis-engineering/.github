@@ -1,0 +1,6 @@
+{
+  "name": "Build and push",
+  "description": "Build container and push to registry",
+  "iconName": "build_push",
+  "categories": ["Container"]
+}
